@@ -1,6 +1,9 @@
 # Blinkit Analysis
 
+![blinkit](https://github.com/user-attachments/assets/fe98a93d-addb-4116-bbbd-e804b01b8bd4)
+
 ### I've recently developed a comprehensive Power BI dashboard that dives deep into Blinkit's data, uncovering key insights and metrics that can drive better business decisions. Here are some of the highlights:
+
 
 ## 📊 Key Performance Indicators (KPIs):
 ```
@@ -58,5 +61,3 @@ Outlet Size Filter: Analyzing how the size of an outlet affects its performance.
 
 ## 🌟 Why This Matters:
 ### This dashboard provides Blinkit with actionable insights to optimize outlet performance, tailor product offerings, and enhance customer satisfaction. By understanding the dynamics of sales by outlet size, location, product type, and customer preferences, Blinkit can make informed decisions that boost profitability and customer loyalty.
-
-![blinkit](https://github.com/user-attachments/assets/fe98a93d-addb-4116-bbbd-e804b01b8bd4)
